@@ -11,4 +11,17 @@
  6. GC data
  7. GaWC data
  
-4
+## Analysis
+Countries with highest  percentage of Abandoned deals
+<img src="https://github.com/snehaldhadge/Rain_Project/blob/main/Graph1.png">
+
+
+## BMI difference from 2014 to 2016
+
+### BMI for year 2014
+<img src="https://github.com/snehaldhadge/Rain_Project/blob/main/bmi_2014.png">
+
+### BMI for year 2016
+<img src="https://github.com/snehaldhadge/Rain_Project/blob/main/bmi_2016.png">
+
+China BMI rate doubled from 3.17 in 2014 to 6.44 in 2016
